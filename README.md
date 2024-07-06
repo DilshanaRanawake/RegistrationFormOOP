@@ -2,6 +2,9 @@
 
 This project implements a registration form using Java Spring Boot for the backend, React for the frontend, MySQL for database management, and XAMPP as the local development environment.
 
+![](https://github.com/DilshanaRanawake/RegistrationFormOOP/blob/main/Screenshots/register1.png)
+![](https://github.com/DilshanaRanawake/RegistrationFormOOP/blob/main/Screenshots/register2.png)
+
 ## Technologies Used
 
 - **Java Spring Boot**: Backend development framework providing dependency injection, MVC architecture, and embedded server configuration.
