@@ -1,0 +1,30 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5; /* light background for the entire screen */
+  }
+  
+  .register-form {
+    background-color: #ffe6e6; /* lightest pink background */
+    padding: 40px; /* increased padding for a bigger form */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px; /* increased width for a bigger form */
+  }
+  
+  .register-form .form-group {
+    margin-bottom: 20px; /* space between form fields */
+  }
+  
+  .submission-status {
+    margin-top: 20px; /* space above the submission status message */
+    color: #d9534f; /* bootstrap danger color */
+  }
+  
+  .submit-button {
+    margin-top: 25px;
+    width: 100%;
+  }
+  
